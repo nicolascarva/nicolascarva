@@ -1,6 +1,6 @@
 ### Howdy 👋
 
-I'm Nico Carvajal. I enjoy building new stuff and troubleshooting complex problems by breaking them down into, and understanding, the smallest possible details.
+I'm Nico Carvajal. I enjoy learning, building new stuff, and troubleshooting complex problems by breaking them down into, and understanding, the smallest possible details.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning: coding, gardening, evolution, complex systems.
