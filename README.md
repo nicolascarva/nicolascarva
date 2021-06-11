@@ -5,7 +5,7 @@ I'm Nico Carvajal. I enjoy building new stuff and troubleshooting complex proble
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning: coding, gardening, evolution, complex systems.
 - 👯 I’m looking to collaborate on any project with the goal of improving education and social media.
-- [:book:]("#" ":book:")
+- [:books:]("#" ":books:") My favorite books are: Ship of Gold in the Deep Blue Sea, Surviving the Extremes, How to Fly a Horse.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about my fruit trees
 - 📫 How to reach me: https://www.linkedin.com/in/nico-carvajal/
